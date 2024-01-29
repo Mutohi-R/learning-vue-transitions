@@ -1,8 +1,10 @@
 <template>
   <main>
     <!-- <appear /> -->
-    <elements-trans />
-    <stagger />
+    <!-- <elements-trans /> -->
+    <!-- <stagger /> -->
+    <!-- <list /> -->
+    <text-reveal />
   </main>
 </template>
 
@@ -12,6 +14,8 @@
   import appear from './components/appear.vue';
   import stagger from './components/Stagger.vue';
   import ElementsTrans from './components/ElementsTrans.vue';
+  import List from './components/List.vue';
+  import TextReveal from './components/TextReveal.vue';
 
 </script>
 

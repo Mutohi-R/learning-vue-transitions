@@ -39,12 +39,12 @@ button {
 }
 
 .slide-up-enter-active {
-    transition: all 0.5s ease;
+    transition: all 0.4s ease;
 }
 
 .slide-up-leave-active {
     /* position: absolute not needed when using mode="out-in" */
     /* position: absolute; */
-    transition: all 0.5s ease;
+    transition: all 0.4s ease;
 }
 </style>
